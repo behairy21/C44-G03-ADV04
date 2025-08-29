@@ -85,7 +85,32 @@ namespace Assignment
 
             #endregion
 
+            #region Q04
+            //4.Given an array of strings, group anagrams together.
+
+            //string[] arr = { "eat", "tea", "tan", "ate", "nat", "bat" };
+            //Dictionary<string, List<string>> anagramGroups = new Dictionary<string, List<string>>();
+            //foreach(string str in arr)
+            //{
+            //    char[] charArray = str.ToCharArray();
+            //    Array.Sort(charArray);
+            //    string sorted = new string(charArray);
+
+            //    if (!anagramGroups.ContainsKey(sorted))
+            //    {
+            //        anagramGroups[sorted] = new List<string>();
+            //    }
+            //    anagramGroups[sorted].Add(str);
+            //}
+
+            //foreach (KeyValuePair<string, List<string>> item in anagramGroups)
+            //{
+            //    Console.WriteLine($"{item.Key} =>  {string.Join(", ",item.Value)}");
+            //}
+            #endregion
+
            
+
         }
     }
 
