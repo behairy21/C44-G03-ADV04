@@ -41,6 +41,30 @@ namespace Assignment
             #endregion
 
 
+            #region Q02
+            //2.You have a hashtable where its values are integers, find the key associated with the highest value.
+
+            //Hashtable ht = new Hashtable
+            //{
+            //    { "a", 10 },
+            //    { "b", 20 },
+            //    { "c", 30 },
+            //    { "d", 40 }
+            //};
+            //string keyWithMaxValue = null;
+            //int maxValue = int.MinValue;
+            //foreach (DictionaryEntry entry in ht)
+            //{
+            //    if ((int)entry.Value > maxValue)
+            //    {
+            //        maxValue = (int)entry.Value;
+            //        keyWithMaxValue = (string)entry.Key;
+            //    }
+            //}
+            //Console.WriteLine($"Key with highest value: {keyWithMaxValue}, Value: {maxValue}");
+
+            #endregion
+
 
         }
     }
