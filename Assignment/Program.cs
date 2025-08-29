@@ -160,6 +160,25 @@ namespace Assignment
 
             #endregion
 
+            #region Q08
+
+            //8.Given an array of integers from 1 to N with some numbers missing, find the missing numbers.
+            //int N = 10;
+            //int[] arr = { 2, 5, 1, 9, 7, 4 };
+
+            //HashSet<int> set = new HashSet<int>(arr);
+            //List<int> missing = new List<int>();
+
+            //for (int i = 1; i <= N; i++)
+            //{
+            //    if (!set.Contains(i))
+            //        missing.Add(i);
+            //}
+
+            //Console.WriteLine("Missing: " + string.Join(", ", missing));
+
+            #endregion
+
 
         }
     }
