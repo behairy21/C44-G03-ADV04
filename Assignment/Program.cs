@@ -179,6 +179,15 @@ namespace Assignment
 
             #endregion
 
+            #region Q09
+            //9.You  have a list of integers with possible duplicates, create a HashSet that contains only unique values.
+
+            //List<int> numbers = new List<int> { 1, 2, 2, 3, 4, 4, 5 };
+            //HashSet<int> unique = new HashSet<int>(numbers);
+            //Console.WriteLine(string.Join(", ",unique));
+
+            #endregion
+
 
         }
     }
