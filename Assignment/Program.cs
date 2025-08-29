@@ -65,7 +65,27 @@ namespace Assignment
 
             #endregion
 
+            #region Q03
+            //Hashtable ht = new Hashtable
+            //{
+            //    { "key1", "apple"},
+            //    { "key2", "banana"},
+            //    { "key3", "apple"},
+            //    { "key4", "orange"},
+            //    { "key5", "banana"}
+            //};
+            //Console.WriteLine("Enter the value to search for:");
+            //string? targetVal = Console.ReadLine();
 
+            //foreach (DictionaryEntry item in ht)
+            //{
+            //    if ((string)item.Value == targetVal)
+            //        Console.WriteLine($"Key: {item.Key}, Value: {item.Value}");
+            //}
+
+            #endregion
+
+           
         }
     }
 
