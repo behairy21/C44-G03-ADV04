@@ -255,6 +255,25 @@ namespace Assignment
             //Console.WriteLine("Elements greater than " + target + ": " + string.Join(", ", greaterThanTarget));
             #endregion
 
+            #region Q14
+            //14.You have a sorted list with integer values, find all the keys associated with even values
+
+            //SortedList<int ,int> sortedList = new SortedList<int, int>
+            //{
+            //    { 1, 10 },
+            //    { 2, 15 },
+            //    { 3, 20 },
+            //    { 4, 25 }
+            //};
+            //List<int> keysWithEvenValues = new List<int>();
+            //foreach (var item in sortedList)
+            //{
+            //    if(item.Key %2 ==0)
+            //        keysWithEvenValues.Add(item.Key);
+            //}
+            //Console.WriteLine("Keys with even values: " + string.Join(", ", keysWithEvenValues));
+
+            #endregion
 
         }
     }
