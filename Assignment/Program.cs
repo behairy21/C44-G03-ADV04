@@ -188,6 +188,24 @@ namespace Assignment
 
             #endregion
 
+            #region Q10
+            //10.You have a hashtable with unique values, create a new hashtable where the keys and values are swapped.
+
+            //Hashtable table = new Hashtable();
+            //table.Add(1, "Ali");
+            //table.Add(2, "Sara");
+
+            //Hashtable swapped = new Hashtable();
+            //foreach (DictionaryEntry entry in table)
+            //    swapped[entry.Value] = entry.Key;
+
+            //foreach (DictionaryEntry entry in swapped)
+            //    Console.WriteLine($"{entry.Key} : {entry.Value}");
+
+
+            #endregion
+
+            
 
         }
     }
