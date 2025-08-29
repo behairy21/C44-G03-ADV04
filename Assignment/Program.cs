@@ -217,6 +217,29 @@ namespace Assignment
 
             #endregion
 
+            #region Q12
+
+            //12.You have a dictionary with string keys, the user will enter targetChar, count how many keys start with this targetChar.
+
+            //Dictionary<string, int> dict = new Dictionary<string, int>
+            //{
+            //    { "apple", 1 },
+            //    { "animal", 2 },
+            //    { "airport", 3 },
+            //    { "ball", 4 }
+            //};
+
+            //char target = 'a';
+            //int count = 0;
+
+            //foreach (var key in dict.Keys)
+            //{
+            //    if (key.StartsWith(target))
+            //        count++;
+            //}
+            //Console.WriteLine($"Number of keys starting with '{target}': {count}");
+            #endregion
+
 
         }
     }
