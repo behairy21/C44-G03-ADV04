@@ -240,6 +240,21 @@ namespace Assignment
             //Console.WriteLine($"Number of keys starting with '{target}': {count}");
             #endregion
 
+            #region Q13
+            //13.You have a sorted set, the user will enter an integer target, find all elements that are greater than target and add them in the list.
+            //SortedSet<int> ints = new SortedSet<int> { 1, 3, 5, 7, 9 };
+            //int target = 4;
+
+            //List<int> greaterThanTarget = new List<int>();
+            //foreach (var item in ints)
+            //{
+            //    if (item > target)
+            //        greaterThanTarget.Add(item);
+            //}
+
+            //Console.WriteLine("Elements greater than " + target + ": " + string.Join(", ", greaterThanTarget));
+            #endregion
+
 
         }
     }
