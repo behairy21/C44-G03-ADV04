@@ -127,6 +127,24 @@ namespace Assignment
 
             #endregion
 
+            #region Q06
+
+            //6.Implement a SortedDictionary that stores student IDs(int) and their names(string).Perform operations like adding, removing, and retrieving student names.
+            //SortedDictionary<int, string> students = new SortedDictionary<int, string>();
+
+            //students.Add(101, "Ali");
+            //students.Add(105, "Sara");
+            //students.Add(102, "Omar");
+
+            //students.Remove(105);
+
+            //Console.WriteLine(students[101]);
+
+            //foreach (KeyValuePair<int, string> kv in students)
+            //    Console.WriteLine($"{kv.Key} : {kv.Value}");
+
+            #endregion
+
 
         }
     }
