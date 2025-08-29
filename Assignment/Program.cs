@@ -146,6 +146,21 @@ namespace Assignment
             #endregion
 
 
+            #region Q07
+            //7.Create an employee directory where employee IDs(int) are keys and employee names(string) are values. Use a SortedList to manage and retrieve employees in order of their IDs.
+            //SortedList<int, string> sortedList = new SortedList<int, string>();
+
+            //sortedList.Add(10, "John Doe");
+            //sortedList.Add(9, "Jane Smith");
+            //sortedList.Add(8, "Sam Brown");
+
+            //foreach (KeyValuePair<int, string> kv in sortedList)
+            //    Console.WriteLine($"ID: {kv.Key}, Name: {kv.Value}");
+
+
+            #endregion
+
+
         }
     }
 
