@@ -109,7 +109,24 @@ namespace Assignment
             //}
             #endregion
 
-           
+            #region Q05
+            //5.Given an array of integers, check if the array contains any duplicates.
+
+            //HashSet<int> hs = new HashSet<int>();
+            //int[] arr = { 1, 2, 3, 4, 5, 1 };
+            //bool hasDuplicates = false;
+            //foreach (int num in arr)
+            //{
+            //    if (!hs.Add(num))
+            //    {
+            //        hasDuplicates = true;
+            //        break;
+            //    }
+            //}
+            //Console.WriteLine(hasDuplicates ? "Duplicates found." : "No duplicates found.");
+
+            #endregion
+
 
         }
     }
